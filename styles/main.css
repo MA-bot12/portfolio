@@ -1,5 +1,5 @@
 .hero {
-  font-family: "Roboto", serif;
+  font-family: "Roboto", Serif;
   text-align: center;
   min-height: 800px;
   background-size: cover;
@@ -41,7 +41,7 @@
   border-radius: 4px;
   cursor: pointer; }
   .cta:hover {
-    color: #00CFFF; }
+    background: #00CFFF; }
 
 #about {
   min-height: 0; }
@@ -90,7 +90,7 @@
 #social {
   padding: 20px; }
   #social a {
-    margin-top: 0px 10px 0px 10px;
+    margin: 0px 10px 0px 10px;
     text-decoration: none; }
   #social img {
     height: 20px; }
@@ -129,7 +129,7 @@
   #intro {
     min-height: 640px; }
 
-  .left-col {
+  .left-col h2 {
     font-size: 42px;
     line-height: 40px; }
 
