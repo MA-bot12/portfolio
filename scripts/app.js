@@ -1,5 +1,5 @@
 function init() {
-  $(document).ready(function() {
+  $( document ).ready(function() {
     $('#close-btn').click(function() {
       $('.sidebar-wrapper').toggleClass('open');
     });
