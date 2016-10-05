@@ -1,7 +1,7 @@
 function init() {
   $(document).ready(function() {
     $('#close-btn').click(function() {
-      $('sidebar-wrapper').toggleClass('open');
+      $('.sidebar-wrapper').toggleClass('open');
     });
 
     $('#hamburger').click(function() {
