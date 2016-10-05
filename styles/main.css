@@ -28,7 +28,7 @@
   width: 0px;
   height: 100%;
   padding-top: 10px;
-  font-family: "Roboto, Serif";
+  font-family: "Roboto", Serif;
   color: white;
   background: black;
   z-index: 2;
